@@ -6,7 +6,8 @@ Features:
 3.
 4.
 --------------------------------------------------------------------------------------------------------------
-Login Form /
+Login Form
+
 ![image](https://user-images.githubusercontent.com/48648162/121052899-64f6bb00-c7ed-11eb-8ce5-4d3c85d4433c.png)
 
 Main Menu
