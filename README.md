@@ -1,4 +1,4 @@
-# CSGO Muti loader
+# CSGO Muti Loader
 
 ## Features:
 ###### 1. Injection Method ( Load Library, VACBypass-Load Library, Manual-Map,  C++ Injector)
