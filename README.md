@@ -13,7 +13,7 @@
 
 ## Main Menu
 
-![image](https://user-images.githubusercontent.com/48648162/121135403-09691380-c867-11eb-868b-0e854d935142.png)
+![image](https://user-images.githubusercontent.com/48648162/121138343-2b17ca00-c86a-11eb-8136-b1f36f07775c.png)
 
 ## Rage page
 
