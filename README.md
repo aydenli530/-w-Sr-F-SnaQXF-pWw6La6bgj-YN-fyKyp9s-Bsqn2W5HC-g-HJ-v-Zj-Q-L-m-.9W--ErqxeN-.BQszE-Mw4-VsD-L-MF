@@ -17,7 +17,7 @@
 
 ## Rage page
 
-![image](https://user-images.githubusercontent.com/48648162/121052990-79d34e80-c7ed-11eb-9d25-3c7c69229fb3.png)
+![image](https://user-images.githubusercontent.com/48648162/121145135-38848280-c871-11eb-9354-46c747bc8ec1.png)
 
 ## Injection Page
 
@@ -25,4 +25,4 @@
 
 ## Settings Page
 
-![image](https://user-images.githubusercontent.com/48648162/121053610-1c8bcd00-c7ee-11eb-9117-9c701ea10e52.png)
+![image](https://user-images.githubusercontent.com/48648162/121145434-88634980-c871-11eb-801b-c494a6cb2410.png)
