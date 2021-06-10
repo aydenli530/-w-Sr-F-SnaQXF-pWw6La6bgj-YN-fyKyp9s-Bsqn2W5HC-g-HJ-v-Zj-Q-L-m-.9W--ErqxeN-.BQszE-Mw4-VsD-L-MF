@@ -3,9 +3,9 @@
 
 ## Features:
 ###### 1. Injection Method ( Load Library, VACBypass-Load Library, Manual-Map,  C++ Injector)
-###### 2. AB
-###### 3. CD
-###### 4. EF
+###### 2. Combine most popular Rage / Legit / Movement / Skin / Rader cheats together
+###### 3. Autoupdate the cheats file
+###### 4. Display the Cheat screenshot 
 --------------------------------------------------------------------------------------------------------------
 ## Login Form
 
