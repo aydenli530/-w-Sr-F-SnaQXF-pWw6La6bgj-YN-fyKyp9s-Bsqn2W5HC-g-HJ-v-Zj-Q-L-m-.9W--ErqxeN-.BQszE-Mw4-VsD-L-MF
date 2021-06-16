@@ -60,4 +60,4 @@
 * [Cheat Dll & ScreenShot-1](https://cheater.run/csgo_hacks_free/)
 * [Cheat Dll & ScreenShot-2](https://ezyhack.ru/load/chity_dlja_cs_go/2)
 * [Adminpanel by znixbtw](https://github.com/znixbtw/panel-v2)
-* [website](https://yougame.biz/threads/168533/)
+* [website by YinBuLiao](https://yougame.biz/threads/168533/)
