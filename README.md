@@ -12,20 +12,19 @@
 * 1.1 Finish the Login / Autoupdate / MainMenu /  CheatMenu / InjectionMenu / Settings UI design
 * 1.2 Finsih the Login Form Function 
   * -using PHP website to check the username and password
-* Item 2
-  * Item 2a
-###### 1.3 Finsih the MainMenu Form Function 
-###### -display Cheat selection in left side bar 
-###### -dispaly cheatMenu in main area
 
-###### 1.4 Finish the InjectionMenu Form Function
-###### -Display the cheat screenshot -Display the cheat name 
-###### -Display the Cheat status - Display the CSGO status
+*  1.3 Finsih the MainMenu Form Function 
+   *  -display Cheat selection in left side bar 
+   *  -dispaly cheatMenu in main area
 
-###### 1.5 Finish the Setiings Form Function 
-###### -Allow the user to save the cheat 
-###### -Select the injection method by self
-###### -User can save their own habits
+*  1.4 Finish the InjectionMenu Form Function
+   *  -Display the cheat screenshot -Display the cheat name 
+   *  -Display the Cheat status - Display the CSGO status
+
+* 1.5 Finish the Setiings Form Function 
+  *  -Allow the user to save the cheat 
+  *  -Select the injection method by self
+  *  -User can save their own habits
 
 --------------------------------------------------------------------------------------------------------------
 ## Login Form
