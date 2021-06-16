@@ -53,3 +53,5 @@
 ## Refrence
 * [Formulario Moderno+Iconos Font Awesome, WinForm, C# – VB.NET] (https://rjcodeadvance.com/formulario-modernoiconos-font-awesome-winform-c/)
 * [skeet.cc loader by flowxrc] (https://yougame.biz/threads/157185/)
+* [ramdom injector from a brazilian coder by ymuft] (https://yougame.biz/threads/207718/)
+* [CSGOInjector by toxa9](https://github.com/toxa9/CSGOInjector)
