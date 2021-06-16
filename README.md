@@ -9,7 +9,7 @@
 --------------------------------------------------------------------------------------------------------------
 
 ## Update Logs
-###### ** 1.1 Finish the Login / Autoupdate / MainMenu /  CheatMenu / InjectionMenu / Settings UI design **
+** ######  1.1 Finish the Login / Autoupdate / MainMenu /  CheatMenu / InjectionMenu / Settings UI design **
 ###### 1.2 Finsih the Login Form Function 
 ###### -using PHP website to check the username and password
 ###### 1.3 Finsih the MainMenu Form Function 
