@@ -6,10 +6,10 @@
 * Download Link : Not available 
 
 ## Features:
-###### 1. Injection Method ( Load Library, VACBypass-Load Library, Manual-Map, C++ Injector)
-###### 2. Combine most popular Rage / Legit / Movement / Skin / Rader cheats together
-###### 3. Auto update the cheats files
-###### 4. Display the Cheat screenshot 
+* Injection Method ( Load Library, VACBypass-Load Library, Manual-Map, C++ Injector)
+* Combine most popular Rage / Legit / Movement / Skin / Rader cheats together
+*  Auto update the cheats files
+*  Display the Cheat screenshot 
 --------------------------------------------------------------------------------------------------------------
 
 ## Update Logs
@@ -63,12 +63,12 @@ https://gwarecsgo.000webhostapp.com/Gware/index.html
 --------------------------------------------------------------------------------------------------------------
 ## Refrence
 * [Formulario Moderno+Iconos Font Awesome, WinForm, C# – VB.NET](https://rjcodeadvance.com/formulario-modernoiconos-font-awesome-winform-c/)
-* [skeet.cc loader by flowxrc](https://yougame.biz/threads/157185/)
-* [ramdom injector from a brazilian coder by ymuft](https://yougame.biz/threads/207718/)
+* [Skeet.cc loader by flowxrc](https://yougame.biz/threads/157185/)
+* [Ramdom injector from a brazilian coder by ymuft](https://yougame.biz/threads/207718/)
 * [CSGOInjector by toxa9](https://github.com/toxa9/CSGOInjector)
 * [Chect Source-1](https://yougame.biz/forums/625/)
 * [Chect Source-2](https://shonaxing.xyz/index.php)
 * [Cheat Dll & ScreenShot-1](https://cheater.run/csgo_hacks_free/)
 * [Cheat Dll & ScreenShot-2](https://ezyhack.ru/load/chity_dlja_cs_go/2)
 * [Adminpanel by znixbtw](https://github.com/znixbtw/panel-v2)
-* [website by YinBuLiao](https://yougame.biz/threads/168533/)
+* [Website by YinBuLiao](https://yougame.biz/threads/168533/)
