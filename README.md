@@ -37,7 +37,7 @@
   *  -Select the injection method by self
   *  -User can save their own habits
 
-* 1.6 Add sound effect of the loader
+* 1.6 Added sound effect of the loader
   * -Login sound 
   * -Close Software sound
   * -Injection successful sound
