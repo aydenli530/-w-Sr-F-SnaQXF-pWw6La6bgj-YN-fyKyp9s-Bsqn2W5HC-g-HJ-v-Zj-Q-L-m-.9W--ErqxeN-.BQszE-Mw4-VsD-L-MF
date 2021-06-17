@@ -10,6 +10,13 @@
 * Combine most popular Rage / Legit / Movement / Skin / Rader cheats together
 *  Auto update the cheats files
 *  Display the Cheat screenshot 
+
+--------------------------------------------------------------------------------------------------------------
+## Develop direction:
+* Connecting the php database with the loader to achieve updating the cheats by website
+* Add loader theme changer through website
+* Provide more information about the cheat in injection page as config folder position....etc
+* Protection of the software
 --------------------------------------------------------------------------------------------------------------
 
 ## Update Logs
